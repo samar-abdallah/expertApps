@@ -1,0 +1,40 @@
+table { table-layout: fixed;   border-collapse: separate;
+    border-spacing: 0 20px;
+}
+td { width: 33%; 
+    text-align:left;
+    vertical-align:middle; 
+}
+
+td img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.require {
+    color: #666;
+}
+label small {
+    color: #999;
+    font-weight: normal;
+}
+
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+  }
+
+
+
+
+
+
+
+
+
+
